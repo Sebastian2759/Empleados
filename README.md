@@ -3,7 +3,9 @@
 ## Introducción
 
 En esta documentación se proporciona una visión general del proyecto Backend desarrollado utilizando una arquitectura hexagonal. Se detallan la estructura del proyecto, los componentes principales y las tecnologías utilizadas.
-
+## Tecnologias
+Este proyecto utiliza bibliotecas de clases de .NET Standard con .NET 8.0 y Web API de .NET Core 8.0 para proporcionar funcionalidades sólidas y compatibilidad con las últimas versiones de la plataforma .NET. Esto garantiza la portabilidad y la capacidad de ejecutar el código en diferentes entornos sin problemas de compatibilidad.
+Se han implementado pruebas unitarias y de integración utilizando herramientas como NUnit y Moq
 ## Arquitectura
 
 El proyecto sigue una arquitectura hexagonal, también conocida como puertos y adaptadores, que se caracteriza por su enfoque en la separación de la lógica de negocio de los detalles técnicos de implementación y las interfaces de entrada y salida.
