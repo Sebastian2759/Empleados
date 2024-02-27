@@ -59,4 +59,20 @@ Para ejecutar el proyecto, sigue los pasos de Configuración e Instalación y lu
 
 Para ejecutar las pruebas unitarias y de integración del proyecto, sigue los pasos de Configuración e Instalación y luego utiliza el comando `dotnet test`.
 
+Monstrare alguna de las visuales del proyecto:
+## Inicio: 
+![image](https://github.com/Sebastian2759/Empleados/assets/45395195/e304710b-8cdc-4aa4-81b1-a06cdd38f4ca)
+## Listado Principal:
+![image](https://github.com/Sebastian2759/Empleados/assets/45395195/d691f9d9-c541-47a0-bb07-3c3c9f27f496)
+## filtros : 
+![image](https://github.com/Sebastian2759/Empleados/assets/45395195/fe5e5d9d-2e33-4cd1-8995-aef008d36648)
+![image](https://github.com/Sebastian2759/Empleados/assets/45395195/e42fb171-310b-4272-9934-26707a704655)
+## Errores: 
+![image](https://github.com/Sebastian2759/Empleados/assets/45395195/7a4a603b-7dfc-468f-8900-00702d616b00)
+![image](https://github.com/Sebastian2759/Empleados/assets/45395195/73551f0c-b6d0-4ee8-8da3-edec1a517411)
 Gracias.
+
+
+
+
+
