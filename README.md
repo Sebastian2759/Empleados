@@ -6,6 +6,8 @@ En esta documentación se proporciona una visión general del proyecto Backend d
 ## Tecnologias
 Este proyecto utiliza bibliotecas de clases de .NET Standard con .NET 8.0 y Web API de .NET Core 8.0 para proporcionar funcionalidades sólidas y compatibilidad con las últimas versiones de la plataforma .NET. Esto garantiza la portabilidad y la capacidad de ejecutar el código en diferentes entornos sin problemas de compatibilidad.
 Se han implementado pruebas unitarias y de integración utilizando herramientas como NUnit y Moq
+
+## LocalHost: https://localhost:7059/
 ## Arquitectura
 
 El proyecto sigue una arquitectura hexagonal, también conocida como puertos y adaptadores, que se caracteriza por su enfoque en la separación de la lógica de negocio de los detalles técnicos de implementación y las interfaces de entrada y salida.
